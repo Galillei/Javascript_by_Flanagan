@@ -1,0 +1,1 @@
+This is directory, we i will be learn wondefull language Javascript by Flanagan
